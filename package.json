@@ -1,0 +1,11 @@
+{
+  "name": "b22-javascript-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "soal1.js,soal2.js,soal3.js,soal4.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sandi Muhamad Rizalul",
+  "license": "ISC"
+}
